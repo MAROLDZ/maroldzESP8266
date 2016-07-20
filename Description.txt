@@ -1,2 +1,3 @@
 This is just project description that I want to make sure works fine
-What else should I add to this fime
+What else should I add to this fine
+I corrected some data and added some data to that file
